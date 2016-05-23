@@ -1,2 +1,3 @@
 # hello-world
-create repository
+Hi Thenmozhi,
+  welcome to the github
